@@ -20,9 +20,9 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-4) Запустите файлик `main.py` через pycharm или командой
+4) Запустите файлик `src/main.py` через pycharm или командой
 ```bash
-python main.py
+python src/main.py
 ```
 5) Теперь приложение запущено и доступно по адресу `localhost:8002/docs`
 
